@@ -1,0 +1,1 @@
+Add photo1.jpg through photo6.jpg here (or change the paths in config.js).

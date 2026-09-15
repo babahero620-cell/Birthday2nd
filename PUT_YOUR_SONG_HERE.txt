@@ -1,0 +1,1 @@
+Add your legally usable song as song.mp3 here, or change the path in config.js.
